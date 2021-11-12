@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  zookeeper:
+  - apiVersion: v1
+    appVersion: 3.4.99
+    created: "2021-11-12T17:12:25.088186848Z"
+    description: A centralized service for maintaining configuration information,
+      naming, providing distributed synchronization, and providing group services
+      for distributed applications.
+    digest: 99d3457d01d18a52ac0c271734ab8349928bf3d8ce37119cee4b55b60e4f8526
+    keywords:
+    - zookeeper
+    name: zookeeper
+    urls:
+    - https://github.com/moonsyim/argocd-helm/blob/main/zookeeper-3.4.99.tgz
+    version: 3.4.99
+generated: "2021-11-12T17:12:25.047953503Z"
